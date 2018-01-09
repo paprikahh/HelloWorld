@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">小妲己</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">send</string>
+
+    <string-array name="welcome_tips">
+        <item >来和妲己玩耍吧</item>
+        <item >请尽情吩咐妲己，主人</item>
+        <item >妲己陪你玩</item>
+        <item >羁绊，是什么意思呢</item>
+        <item >啊！被玩坏了</item>
+        <item >让妲己看看你的心</item>
+    </string-array>
+    
+</resources>
